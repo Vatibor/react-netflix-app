@@ -3,6 +3,11 @@
     npx create-react-app react-netflix-app --template redux
     we use axios for the requests
         npm i axios
+    firebase
+    react-router -> npm install react-router-dom
+    paying extension in firebase -> Stripe
+    npm i @stripe/stripe-js
+
 
 
 
